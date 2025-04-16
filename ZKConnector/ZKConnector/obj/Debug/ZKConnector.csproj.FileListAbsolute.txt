@@ -1,0 +1,13 @@
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnector.csproj.AssemblyReference.cache
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\Interop.ZKFPEngXControl.dll
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnector.csproj.ResolveComReference.cache
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnector.csproj.CoreCompileInputs.cache
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\bin\Debug\ZKConnector.exe.config
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\bin\Debug\ZKConnector.exe
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\bin\Debug\ZKConnector.pdb
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnector.exe
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnector.pdb
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AREA DE SISTEMAS\source\repos\ZKConnector\ZKConnector\obj\Debug\ZKConnec.10EC5FB9.Up2Date
